@@ -1,1 +1,0 @@
-# corner_detection_distance
